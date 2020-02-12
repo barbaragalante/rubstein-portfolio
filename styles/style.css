@@ -1,0 +1,56 @@
+
+a:hover{
+    text-decoration: none;
+}
+
+.bg-roxo {
+    background-color: #ffffff;
+}
+
+nav a:hover {
+    font-weight: 500;
+}
+
+.icones {
+    width: 07vh;
+}
+.img-carousel {
+    object-fit: cover;
+    object-position: 0 30%;
+    height: 65vh;
+}
+
+.redes-sociais span{
+    color: black;
+}
+
+.redes-sociais i{
+    color: #000000;
+    font-size: 1.2 rem;
+}
+
+.redes-sociais span:hover {
+    columns: #000000;;
+    font-weight: 500;
+}
+
+.habilidades{
+   font-size: 1.8 rem;
+}
+
+.tamanho-card{
+    width: 18rem;
+}
+
+.imagem-cards{
+    object-fit: cover;
+    object-position: top;
+    height: 25vw;
+}
+
+#imagem_principal{
+    background-color: #000000;
+    object-fit: cover;
+    object-position: 0 30%;
+    height: 65vh;
+}
