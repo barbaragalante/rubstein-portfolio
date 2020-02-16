@@ -38,6 +38,7 @@ nav a:hover {
    font-size: 1.8 rem;
 }
 
+
 .tamanho-card{
     width: 18rem;
 }
@@ -53,4 +54,10 @@ nav a:hover {
     object-fit: cover;
     object-position: 0 30%;
     height: 65vh;
+}
+
+@media (min-width: 320px){
+    .mq{
+        font-size: 13px;
+     }
 }
